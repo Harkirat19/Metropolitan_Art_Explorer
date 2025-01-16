@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 import Card from "react-bootstrap/Card";
 import ListGroup from "react-bootstrap/ListGroup";
 import Button from "react-bootstrap/Button";
-import styles from "@/styles/History.module.css";
+import styles from "@/styles/history.module.css";
 
 export default function History() {
   const router = useRouter();
