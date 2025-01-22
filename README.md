@@ -16,7 +16,8 @@ Metropolitan Art Explorer is a comprehensive platform designed for discovering a
 
 - **Frontend**:
   - Next.js
-  - React-Bootstrap
+  - React
+  - Bootstrap
   - CSS
 
 - **Backend**:
